@@ -4,5 +4,4 @@
 
 - [Aleksander Dokken](https://github.com/MagicDocJr)
 
-
-
+- [Hermann R. Theimann](https://github.com/hertheim)
