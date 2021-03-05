@@ -2,4 +2,6 @@
 
 The guys representing this repository is:
 
-Aleksander 
+Aleksander
+
+Hermann 
