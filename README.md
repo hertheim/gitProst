@@ -6,9 +6,4 @@
 
 
 
-<<<<<<< HEAD
-Aleksander
 
-Hermann 
-=======
->>>>>>> 7086ef9908f020a621128cfb8e6cbacba2ffa137
