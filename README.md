@@ -2,7 +2,7 @@
 
 **The guys representing this repository is:**
 
-- [Aleksander](https://github.com/MagicDocJr)
+- [Aleksander Dokken](https://github.com/MagicDocJr)
 
 
 
